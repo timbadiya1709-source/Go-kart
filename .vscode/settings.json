@@ -67,5 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Go-Kart.slnx"
+    "dotnet.defaultSolution": "Go-Kart.slnx",
+    "CodeGPT.apiKey": "Claude Code"
 }

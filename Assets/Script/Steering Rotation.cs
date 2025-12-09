@@ -8,7 +8,6 @@ public class SteeringRotation : MonoBehaviour
     
     [Header("Steering Settings")]
     [SerializeField] private float maxSteerAngle = 30f;
-    [SerializeField] private float steerSensitivity = 1f;
     [SerializeField] private float steerSmoothing = 5f;
     
     private float currentSteerInput = 0f;
